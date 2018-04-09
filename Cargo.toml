@@ -1,0 +1,6 @@
+[package]
+name = "rust-closures-playground"
+version = "0.1.0"
+authors = ["holopsicon"]
+
+[dependencies]
